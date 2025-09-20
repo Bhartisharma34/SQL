@@ -1,4 +1,4 @@
-#Mastering Data with SQL
+**Mastering Data with SQL**
 
 **Summary**
 
